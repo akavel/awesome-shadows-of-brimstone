@@ -64,3 +64,13 @@ Note: no single-item links, this is not intended as an ads board, but as a playe
   - Thingiverse:
     ["Shadows of Brimstone" search](https://www.thingiverse.com/search?q=shadows+of+brimstone),
     ["Shadows of Brimstone" tag](https://www.thingiverse.com/tag:shadows_of_brimstone) - 3d-printable designs
+
+## Learning & Actual Plays
+
+Note: Actual Plays should be lists with at least 3 episodes/sessions.
+
+  - **Al Graham's SoloCampaigns** on Youtube:
+    - [The Adventures of Hattori Hanzo Season 1](https://www.youtube.com/playlist?list=PL-ORTC2erVWyiwlyjv-REiojEqyRRNmzA),
+      [Season 2](https://www.youtube.com/playlist?list=PL-ORTC2erVWyMD2MviZaZb3x4NeFENOoR),
+      [Season 3](https://www.youtube.com/playlist?list=PL-ORTC2erVWxQ02SHxclw0XGkcVdv4zTd)
+    - [Artemus Tau Trederran Veteran](https://www.youtube.com/playlist?list=PL-ORTC2erVWwGzXCrPPW4Yvee5QCvwuSw)
