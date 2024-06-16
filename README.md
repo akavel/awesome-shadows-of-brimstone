@@ -80,6 +80,7 @@ To be included, the lists should generally not include videos unrelated to SoB.
       [Season 2](https://www.youtube.com/playlist?list=PL-ORTC2erVWyMD2MviZaZb3x4NeFENOoR),
       [Season 3](https://www.youtube.com/playlist?list=PL-ORTC2erVWxQ02SHxclw0XGkcVdv4zTd) - solo Actual Plays
     - [Artemus Tau Trederran Veteran](https://www.youtube.com/playlist?list=PL-ORTC2erVWwGzXCrPPW4Yvee5QCvwuSw) - solo Actual Plays
+  - andvice on Youtube: 🇮🇹-IT [Let's Play Shadows of Brimstone (ITA)](https://www.youtube.com/playlist?list=PLnKuXMFxxZeeJbZWbuhMrVRHVt53Q43Fs) - Actual Plays - in Italian 🇮🇹
   - boardgametv8275 on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLGHz0L_lMpNplgP5HWiJaFg6RB8yEwuGk) - Actual Plays
   - bulletstormxLY on Youtube: [Forbidden Fortress](https://www.youtube.com/playlist?list=PLR3fDG4xfBzQWkwZB9QxMXUrr02jOtwa6) - Actual Plays
   - callasmar on Youtube:
