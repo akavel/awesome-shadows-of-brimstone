@@ -110,6 +110,7 @@ To be included, the lists should generally not include videos unrelated to SoB.
   - DaletheCasualGamer on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLNgtKvK62sXq7Sac1ll3g8xrV00YEXpax) - Actual Plays, partial learning guides (also: unboxings & others)
   - DieRollin on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PL-N2QYgmYGrfcVlmvk_DTYLOo03fx4Uoz) - Actual Plays
   - Dougmysticeye on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLSxVbnQ1EfACNVx-yE5XPcAoeSa034SIq) - Actual Plays
+  - dwaynehendrickson8854 on Youtube: [Shadows of Brimstone Map solution](https://youtu.be/1RdOVJVBRgM) - organizing guide
   - elympian on Youtube: [Shadows of Brimstone Adventures how to play](https://youtu.be/XD9Tz60bBc8) - a learning guide
   - gaminggeek241 on Youtube: [Shadows of Brimstone Minecart Painted & Game Management](https://youtu.be/yrgoTRUcM2M) - organizing guide 
   - hefrvifamilygaming9540 on Youtube:
