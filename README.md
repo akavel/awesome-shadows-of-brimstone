@@ -76,6 +76,7 @@ Note: Actual Plays should be lists with at least 3 episodes/sessions.
       [Season 2](https://www.youtube.com/playlist?list=PL-ORTC2erVWyMD2MviZaZb3x4NeFENOoR),
       [Season 3](https://www.youtube.com/playlist?list=PL-ORTC2erVWxQ02SHxclw0XGkcVdv4zTd) - solo Actual Plays
     - [Artemus Tau Trederran Veteran](https://www.youtube.com/playlist?list=PL-ORTC2erVWwGzXCrPPW4Yvee5QCvwuSw) - solo Actual Plays
+  - boardgametv8275 on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLGHz0L_lMpNplgP5HWiJaFg6RB8yEwuGk) - Actual Plays
   - DieRollin on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PL-N2QYgmYGrfcVlmvk_DTYLOo03fx4Uoz) - Actual Plays
   - hefrvifamilygaming9540 on Youtube:
     - [Forbidden Fortress with my daughter](https://www.youtube.com/playlist?list=PLx2JcTwwLnK9DvYQaJt-KgSa57ayDtg9I) - team Actual Plays
