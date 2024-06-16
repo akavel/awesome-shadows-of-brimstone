@@ -77,8 +77,8 @@ Note: Actual Plays should be lists with at least 3 episodes/sessions.
       [Season 3](https://www.youtube.com/playlist?list=PL-ORTC2erVWxQ02SHxclw0XGkcVdv4zTd)
     - [Artemus Tau Trederran Veteran](https://www.youtube.com/playlist?list=PL-ORTC2erVWwGzXCrPPW4Yvee5QCvwuSw)
   - hefrvifamilygaming9540 on Youtube:
-    - [Forbidden Fortress with my daughter](https://www.youtube.com/playlist?list=PLx2JcTwwLnK9DvYQaJt-KgSa57ayDtg9I) - an Actual Play
-    - [Shadows of Brimstone: Strike Team 'Burbs'](https://www.youtube.com/playlist?list=PLx2JcTwwLnK8lmmxn6M03Xe93GUvI2AAM) - an Actual Play
-  - [Learn to Play: Shadows of Brimstone](https://youtu.be/kWQErXUUpnw) (youtube) by LearntoPlayGames - a learning guide
-  - [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLKewgRd8Eir9YKPPCrOy9KzRJ270BlMj2) (youtube) by TheDungeonDive - comprehensive & subjective buyer's guide and reviews
- 
+    - [Forbidden Fortress with my daughter](https://www.youtube.com/playlist?list=PLx2JcTwwLnK9DvYQaJt-KgSa57ayDtg9I) - Actual Plays
+    - [Shadows of Brimstone: Strike Team 'Burbs'](https://www.youtube.com/playlist?list=PLx2JcTwwLnK8lmmxn6M03Xe93GUvI2AAM) - Actual Plays
+  - LearntoPlayGames on Youtube: [Learn to Play: Shadows of Brimstone](https://youtu.be/kWQErXUUpnw) - a learning guide
+  - TheDungeonDive on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLKewgRd8Eir9YKPPCrOy9KzRJ270BlMj2) - a comprehensive & subjective buyer's guide and reviews
+  - WarhammerDad on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLIsZfrSqOd1URQ3Y557_Gyxk_9gXE7fbL) - Actual Plays
