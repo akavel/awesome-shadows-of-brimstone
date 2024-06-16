@@ -34,7 +34,7 @@ or in the [announcement thread on Reddit](https://old.reddit.com/r/shadowsofbrim
   - [Forum on BoardGameGeek](https://boardgamegeek.com/boardgame/146791/shadows-of-brimstone-city-of-the-ancients/forums) - main unofficial community forum for all topics related to the _Shadows of Brimstone_ game series
   - [r/ShadowsOfBrimstone on Reddit](https://old.reddit.com/r/shadowsofbrimstone/) - unofficial subreddit devoted to the _Shadows of Brimstone_ game series
   - unofficial markets:
-    - [Shadows of Brimstone: Trade & Sell on Facebook](https://www.facebook.com/groups/1631825153601332/) - unofficial market for _SoB_ content - global
+    - [Shadows of Brimstone: Trade & Sell on Facebook](https://www.facebook.com/groups/1631825153601332/) - unofficial market for _SoB_ content - mainly US and UK
     - [Shadows of Brimstone Trade & Sell EUROPE on Facebook](https://www.facebook.com/groups/2697987203565208/) - unofficial market for _SoB_ content in Europe
   - local groups:
     - 🇵🇱-PL [Shadows of Brimstone - Polska on Facebook](https://www.facebook.com/groups/329042658407032/) - unofficial Polish-language group 🇵🇱
