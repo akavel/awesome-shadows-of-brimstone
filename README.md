@@ -121,6 +121,7 @@ To be included, the lists should generally not include videos unrelated to SoB.
     - [Shadows of Brimstone Season 2](https://www.youtube.com/playlist?list=PLc-LFXGBqljKJH_I1xMsg8pdWyD0DtBCl) - Actual Plays
     - [Shadows of Brimstone Forbidden Fortress](https://www.youtube.com/playlist?list=PLc-LFXGBqljK9kI0bLbOKSaePrDkY16UB) - Actual Plays
     - [Shadows of brimstone Story of Amina the Kitsune](https://www.youtube.com/playlist?list=PLc-LFXGBqljKmDBxBidoBd1Gj_Eq-jbRp) - Actual Plays
+  - JoshHGamingCorner on Youtube: [Shadows of Brimstone - Custom Foam Core Insert](https://youtu.be/xobxFdSiMEQ) - organizing guide
   - LearntoPlayGames on Youtube: [Learn to Play: Shadows of Brimstone](https://youtu.be/kWQErXUUpnw) - a learning guide
   - LearnToPlaythrough on Youtube:
     - [Shadows of Brimstone - City of the Ancients: A Fistful of Dark Stone](https://www.youtube.com/playlist?list=PL4R2PYHP-No0rn7TY2KQrmqr6fdcXSdf1) - Actual Plays, learning comments (also: painting, unboxing)
