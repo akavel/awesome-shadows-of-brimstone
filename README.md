@@ -78,6 +78,7 @@ Note: Actual Plays should be lists with at least 3 episodes/sessions.
     - [Artemus Tau Trederran Veteran](https://www.youtube.com/playlist?list=PL-ORTC2erVWwGzXCrPPW4Yvee5QCvwuSw) - solo Actual Plays
   - boardgametv8275 on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLGHz0L_lMpNplgP5HWiJaFg6RB8yEwuGk) - Actual Plays
   - DieRollin on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PL-N2QYgmYGrfcVlmvk_DTYLOo03fx4Uoz) - Actual Plays
+  - elympian on Youtube: [Shadows of Brimstone Adventures how to play](https://youtu.be/XD9Tz60bBc8) - a learning guide
   - hefrvifamilygaming9540 on Youtube:
     - [Forbidden Fortress with my daughter](https://www.youtube.com/playlist?list=PLx2JcTwwLnK9DvYQaJt-KgSa57ayDtg9I) - team Actual Plays
     - [Shadows of Brimstone: Strike Team 'Burbs'](https://www.youtube.com/playlist?list=PLx2JcTwwLnK8lmmxn6M03Xe93GUvI2AAM) - team Actual Plays
