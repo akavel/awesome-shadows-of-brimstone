@@ -37,8 +37,10 @@ However, the final call on what will or will not get included is at the curator'
 
   - 2023-08-10 ~ 2023-11-10 [European shops (maintained list)](https://boardgamegeek.com/thread/3133536/european-shops-maintained-list)
   - 2018-05-04 ~ 2023-08-12 [Atmospheric background music / Spotify playlists for Shadows of Brimstone](https://boardgamegeek.com/thread/1987614/atmospheric-background-music-spotify-playlists-for)
+  - 2015-01-05 [3D Printed Card Holder](https://boardgamegeek.com/thread/1296073/3d-printed-card-holder)
+  - 2014-11-19 [DIY Foam Core Card Holder (with instructions)](https://boardgamegeek.com/thread/1272296/foam-core-card-holder-for-less-than-dollar-4)
 
-## Unofficial Content
+## Unofficial Content (free)
 
 (In alphabetical order, after removing any "Shadows of Brimstone" prefix - except for a few "pinned" links at the top).
 
@@ -48,4 +50,14 @@ However, the final call on what will or will not get included is at the curator'
     - [SoBA:VotSK Files on BoardGameGeek](https://boardgamegeek.com/boardgame/273654/shadows-of-brimstone-valley-of-the-serpent-kings) - community-contributed unofficial content specifically for _Valley of the Serpent Kings_
   - [Klutz's Card Factory](https://cardfactory.kbelisle.ca/) (webapp) - draws a high-quality image (PNG format) of a full _SoB_ card face with text contents entered by the user
   - [SoB Card Generator](http://jparkerweb.github.io/card-generator-sob/) (webapp) - draws a high-quality image (PNG format) of a full _SoB_ card face with layout details and contents entered by the user
+  - [Card Holder](https://www.thingiverse.com/thing:622503) (3d printable)
   - [Shadows of Brimstone Mission Generator](https://brimstonemissiongenerator.azurewebsites.net/) (webapp) - randomly picks a mission from among the selected expansions
+
+## Unofficial content (searches, including paid)
+
+Note: no single-item links, this is not intended as an ads board, but as a players aid. Only links to comprehensive lists with at least 3 items, preferably from varying authors.
+
+  - Etsy: ["Shadows of Brimstone" search](https://www.etsy.com/market/shadows_of_brimstone) - an online shop with various accessories
+  - Thingiverse:
+    ["Shadows of Brimstone" search](https://www.thingiverse.com/search?q=shadows+of+brimstone),
+    ["Shadows of Brimstone" tag](https://www.thingiverse.com/tag:shadows_of_brimstone) - 3d-printable designs
