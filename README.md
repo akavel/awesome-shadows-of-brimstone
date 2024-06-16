@@ -90,6 +90,9 @@ To be included, the lists should generally not include videos unrelated to SoB.
     - [Forbidden Fortress with my daughter](https://www.youtube.com/playlist?list=PLx2JcTwwLnK9DvYQaJt-KgSa57ayDtg9I) - team Actual Plays
     - [Shadows of Brimstone: Strike Team 'Burbs'](https://www.youtube.com/playlist?list=PLx2JcTwwLnK8lmmxn6M03Xe93GUvI2AAM) - team Actual Plays
   - LearntoPlayGames on Youtube: [Learn to Play: Shadows of Brimstone](https://youtu.be/kWQErXUUpnw) - a learning guide
+  - lightofhand on Youtube:
+    - [shadows of brimstone gameplay](https://www.youtube.com/playlist?list=PLIwmqtQU0yPnaTKdgCUb_le2K9I4R-KUP) - Actual Plays
+    - [Making of my heroes groups for shadows of brimstone](https://www.youtube.com/playlist?list=PLIwmqtQU0yPnVm-6iSc5JN9llaYvQkX1Q) - Actual Plays (of character creation phase)
   - MeetMeAtTheTable on Youtube: [Forbidden Fortress](https://www.youtube.com/playlist?list=PL4aXXln4LackkdNBc_wtOKRjZqtA-Z8R4) - Actual Plays & a learning guide
   - PrattskiTheTabletopGamer on Youtube:
     - [Shadows of Brimstone: Organization Difficulty Level 99+](https://youtu.be/Yo8WUZxIFgw) - organizing guide
