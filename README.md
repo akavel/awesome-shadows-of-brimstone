@@ -53,7 +53,7 @@ However, the final call on what will or will not get included is at the curator'
   - [Card Holder](https://www.thingiverse.com/thing:622503) (3d printable)
   - [Shadows of Brimstone Mission Generator](https://brimstonemissiongenerator.azurewebsites.net/) (webapp) - randomly picks a mission from among the selected expansions
 
-## Unofficial content (searches, including paid)
+## Unofficial content (search links, including paid items)
 
 Note: no single-item links, this is not intended as an ads board, but as a players aid. Only links to comprehensive lists with at least 3 items, preferably from varying authors.
 
