@@ -87,6 +87,7 @@ To be included, the lists should generally not include videos unrelated to SoB.
   - hefrvifamilygaming9540 on Youtube:
     - [Forbidden Fortress with my daughter](https://www.youtube.com/playlist?list=PLx2JcTwwLnK9DvYQaJt-KgSa57ayDtg9I) - team Actual Plays
     - [Shadows of Brimstone: Strike Team 'Burbs'](https://www.youtube.com/playlist?list=PLx2JcTwwLnK8lmmxn6M03Xe93GUvI2AAM) - team Actual Plays
+  - realjplay on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLQcL0QgYU_akxtdwNtOjsAlr6FgK6y5CO) - Actual Plays, with some learning comments
   - LearntoPlayGames on Youtube: [Learn to Play: Shadows of Brimstone](https://youtu.be/kWQErXUUpnw) - a learning guide
   - MeetMeAtTheTable on Youtube: [Forbidden Fortress](https://www.youtube.com/playlist?list=PL4aXXln4LackkdNBc_wtOKRjZqtA-Z8R4) - Actual Plays & a learning guide
   - PrattskiTheTabletopGamer on Youtube:
