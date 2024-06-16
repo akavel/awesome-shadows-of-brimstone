@@ -70,6 +70,7 @@ Note: no single-item links, this is not intended as an ads board, but as a playe
 Note: Actual Plays or Reviews should be lists with at least 3 episodes/sessions.
 Unboxing videos are not automatically considered a Review.
 Actual Play videos are not automatically considered a Learning Guide.
+To be included, the lists should generally not include videos unrelated to SoB.
 
 (Youtube channels in alphabetical order of channel @-name - except for a few "pinned" links at the top.)
 
