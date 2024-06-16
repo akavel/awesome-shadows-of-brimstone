@@ -86,6 +86,18 @@ To be included, the lists should generally not include videos unrelated to SoB.
   - callasmar on Youtube:
     - [Brimstone Swamps](https://www.youtube.com/playlist?list=PL8ALEHXj9QvGqsw3hb71hiqgipPuFTvT8) - Actual Plays
     - [Shadows of Brimstone Targa](https://www.youtube.com/playlist?list=PL8ALEHXj9QvGE6PfdwVVaDUnySJmOVfJ_) - Actual Plays
+  - Catweazle00 on Youtube:
+    - [A Fistful of Dark Stone: Shadows of Brimstone Playthrough #1](https://www.youtube.com/playlist?list=PLvkAdtnwUzTbe8WN_6N6V3hiH0wcjFRhF)
+    - [The Frozen Expedition:  Shadows of Brimstone Playthrough #2](https://www.youtube.com/playlist?list=PLvkAdtnwUzTZPRSsFNh5w1pLfHD4pbd5Y)
+    - [The Temple of Dread: Shadows of Brimstone Playthrough #3](https://www.youtube.com/playlist?list=PLvkAdtnwUzTYV0lcQkB2u8FWK04gz3D17)
+    - [The Search Party: Shadows of Brimstone Playthrough #4](https://www.youtube.com/playlist?list=PLvkAdtnwUzTYD6-jvhw9V1OA_HZSOn6Vy)
+    - [The Escape: Shadows of Brimstone Playthrough #5](https://www.youtube.com/playlist?list=PLvkAdtnwUzTZZ_idwTe0oXtoVb_mziI9d)
+    - [Overload: Shadows of Brimstone Playthrough #6](https://www.youtube.com/playlist?list=PLvkAdtnwUzTZTxOTsdrndRdrdb0wd-_fS)
+    - [Night of the Dead: Shadows of Brimstone Playthrough #7](https://www.youtube.com/playlist?list=PLvkAdtnwUzTa9EInuwX9msfxKQKNCT1KR)
+    - [Fire And Ash: Shadows of Brimstone Playthrough #8](https://www.youtube.com/playlist?list=PLvkAdtnwUzTYARpWyQOEB2kSBizgCiRaz)
+    - [Broken Seals: Shadows of Brimstone Playthrough #9](https://www.youtube.com/playlist?list=PLvkAdtnwUzTYatWpeXaSlBN0I6xNm0Xiw)
+    - [A Fistful Of Darkstone | Shadows Of Brimstone... RELOADED...](https://www.youtube.com/playlist?list=PLvkAdtnwUzTZq3tz-l2gMrH6YHLjRHWVC)
+    - [For A Few Darkstone More | Shadows Of Brimstone...](https://www.youtube.com/playlist?list=PLvkAdtnwUzTYvi-fGW5akcLHmVlPByEBM)
   - DaletheCasualGamer on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLNgtKvK62sXq7Sac1ll3g8xrV00YEXpax) - Actual Plays, partial learning guides (also: unboxings & others)
   - DieRollin on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PL-N2QYgmYGrfcVlmvk_DTYLOo03fx4Uoz) - Actual Plays
   - Dougmysticeye on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLSxVbnQ1EfACNVx-yE5XPcAoeSa034SIq) - Actual Plays
