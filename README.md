@@ -84,7 +84,11 @@ To be included, the lists should generally not include videos unrelated to SoB.
   - **[GRIT - a Shadows of Brimstone podcast](https://grit-podcast.com/)** (podcast)
     - a list of [all episodes](https://grit-podcast.com/all-episodes) of the podcast
     - [SoB Rule Reference Tool](https://grit-podcast.com/sob-rules-tool/index.html)
-  - andvice on Youtube: 🇮🇹-IT [Let's Play Shadows of Brimstone (ITA)](https://www.youtube.com/playlist?list=PLnKuXMFxxZeeJbZWbuhMrVRHVt53Q43Fs) - Actual Plays - in Italian 🇮🇹
+  - andvice on Youtube:
+    - 🇮🇹-IT [Let's Play Shadows of Brimstone (ITA)](https://www.youtube.com/playlist?list=PLnKuXMFxxZeeJbZWbuhMrVRHVt53Q43Fs) - Actual Plays - in Italian 🇮🇹
+    - 🇮🇹-IT [Shadows of Brimstone - Campagna 2](https://www.youtube.com/playlist?list=PLnKuXMFxxZed82r0g9zS8FHD6FD7ZxzkV) - Actual Plays - in Italian 🇮🇹
+    - 🇮🇹-IT [Shadows of Brimstone - Campagna 3 (Molly e Atahualpa)](https://www.youtube.com/playlist?list=PLnKuXMFxxZeeVg1peHtOlG_zsAVoGB5-5) - Actual Plays - in Italian 🇮🇹
+    - 🇮🇹-IT [Shadows of Brimstone - Valley of the Serpent Kings - Fernanda De...](https://www.youtube.com/playlist?list=PLnKuXMFxxZecIh-s-aUpYTj5qHO7KF2fR) - Actual Plays - in Italian 🇮🇹
   - boardgametv8275 on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLGHz0L_lMpNplgP5HWiJaFg6RB8yEwuGk) - Actual Plays
   - bulletstormxLY on Youtube: [Forbidden Fortress](https://www.youtube.com/playlist?list=PLR3fDG4xfBzQWkwZB9QxMXUrr02jOtwa6) - Actual Plays
   - callasmar on Youtube:
