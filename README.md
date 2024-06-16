@@ -69,11 +69,16 @@ Note: no single-item links, this is not intended as an ads board, but as a playe
 
 Note: Actual Plays should be lists with at least 3 episodes/sessions.
 
+(Youtube channels in alphabetical order of channel @-name - except for a few "pinned" links at the top.)
+
   - **Al Graham's SoloCampaigns** on Youtube:
     - [The Adventures of Hattori Hanzo Season 1](https://www.youtube.com/playlist?list=PL-ORTC2erVWyiwlyjv-REiojEqyRRNmzA),
       [Season 2](https://www.youtube.com/playlist?list=PL-ORTC2erVWyMD2MviZaZb3x4NeFENOoR),
       [Season 3](https://www.youtube.com/playlist?list=PL-ORTC2erVWxQ02SHxclw0XGkcVdv4zTd)
     - [Artemus Tau Trederran Veteran](https://www.youtube.com/playlist?list=PL-ORTC2erVWwGzXCrPPW4Yvee5QCvwuSw)
+  - hefrvifamilygaming9540 on Youtube:
+    - [Forbidden Fortress with my daughter](https://www.youtube.com/playlist?list=PLx2JcTwwLnK9DvYQaJt-KgSa57ayDtg9I) - an Actual Play
+    - [Shadows of Brimstone: Strike Team 'Burbs'](https://www.youtube.com/playlist?list=PLx2JcTwwLnK8lmmxn6M03Xe93GUvI2AAM) - an Actual Play
   - [Learn to Play: Shadows of Brimstone](https://youtu.be/kWQErXUUpnw) (youtube) by LearntoPlayGames - a learning guide
   - [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLKewgRd8Eir9YKPPCrOy9KzRJ270BlMj2) (youtube) by TheDungeonDive - comprehensive & subjective buyer's guide and reviews
-  - [Shadows of Brimstone: Strike Team 'Burbs'](https://www.youtube.com/playlist?list=PLx2JcTwwLnK8lmmxn6M03Xe93GUvI2AAM) (youtube) by hefrvifamilygaming9540 - an Actual Play
+ 
