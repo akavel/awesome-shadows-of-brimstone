@@ -80,6 +80,7 @@ To be included, the lists should generally not include videos unrelated to SoB.
       [Season 3](https://www.youtube.com/playlist?list=PL-ORTC2erVWxQ02SHxclw0XGkcVdv4zTd) - solo Actual Plays
     - [Artemus Tau Trederran Veteran](https://www.youtube.com/playlist?list=PL-ORTC2erVWwGzXCrPPW4Yvee5QCvwuSw) - solo Actual Plays
   - boardgametv8275 on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLGHz0L_lMpNplgP5HWiJaFg6RB8yEwuGk) - Actual Plays
+  - bulletstormxLY on Youtube: [Forbidden Fortress](https://www.youtube.com/playlist?list=PLR3fDG4xfBzQWkwZB9QxMXUrr02jOtwa6) - Actual Plays
   - DaletheCasualGamer on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLNgtKvK62sXq7Sac1ll3g8xrV00YEXpax) - Actual Plays, partial learning guides (also: unboxings & others)
   - DieRollin on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PL-N2QYgmYGrfcVlmvk_DTYLOo03fx4Uoz) - Actual Plays
   - Dougmysticeye on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLSxVbnQ1EfACNVx-yE5XPcAoeSa034SIq) - Actual Plays
@@ -88,12 +89,12 @@ To be included, the lists should generally not include videos unrelated to SoB.
   - hefrvifamilygaming9540 on Youtube:
     - [Forbidden Fortress with my daughter](https://www.youtube.com/playlist?list=PLx2JcTwwLnK9DvYQaJt-KgSa57ayDtg9I) - team Actual Plays
     - [Shadows of Brimstone: Strike Team 'Burbs'](https://www.youtube.com/playlist?list=PLx2JcTwwLnK8lmmxn6M03Xe93GUvI2AAM) - team Actual Plays
-  - realjplay on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLQcL0QgYU_akxtdwNtOjsAlr6FgK6y5CO) - Actual Plays, with some learning comments
   - LearntoPlayGames on Youtube: [Learn to Play: Shadows of Brimstone](https://youtu.be/kWQErXUUpnw) - a learning guide
   - MeetMeAtTheTable on Youtube: [Forbidden Fortress](https://www.youtube.com/playlist?list=PL4aXXln4LackkdNBc_wtOKRjZqtA-Z8R4) - Actual Plays & a learning guide
   - PrattskiTheTabletopGamer on Youtube:
     - [Shadows of Brimstone: Organization Difficulty Level 99+](https://youtu.be/Yo8WUZxIFgw) - organizing guide
     - [Shadows of Brimstone - Campaigns](https://www.youtube.com/playlist?list=PLNgtKvK62sXq7Sac1ll3g8xrV00YEXpax) - Actual Plays
+  - realjplay on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLQcL0QgYU_akxtdwNtOjsAlr6FgK6y5CO) - Actual Plays, with some learning comments
   - slickerdrips on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PL8J_Z1CANAQuBTxT4tZxuHA3PhSdCeNuU) - Actual Plays
   - sologamersclub on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLLN9Pm8MWdPteksEQ3vj5KDe3_Vxr7nnT) - Actual Plays
   - TheDungeonDive on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLKewgRd8Eir9YKPPCrOy9KzRJ270BlMj2) - a comprehensive & subjective buyer's guide and reviews
