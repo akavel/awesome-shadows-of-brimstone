@@ -47,4 +47,5 @@ However, the final call on what will or will not get included is at the curator'
     - [SoBA:GoV Files on BoardGameGeek](https://boardgamegeek.com/boardgame/273655/shadows-of-brimstone-gates-of-valhalla/files) - community-contributed unofficial content specifically for _Gates of Valhalla_
     - [SoBA:VotSK Files on BoardGameGeek](https://boardgamegeek.com/boardgame/273654/shadows-of-brimstone-valley-of-the-serpent-kings) - community-contributed unofficial content specifically for _Valley of the Serpent Kings_
   - [Klutz's Card Factory](https://cardfactory.kbelisle.ca/) (webapp) - draws a high-quality image (PNG format) of a full _SoB_ card face with text contents entered by the user
+  - [SoB Card Generator](http://jparkerweb.github.io/card-generator-sob/) (webapp) - draws a high-quality image (PNG format) of a full _SoB_ card face with layout details and contents entered by the user
   - [Shadows of Brimstone Mission Generator](https://brimstonemissiongenerator.azurewebsites.net/) (webapp) - randomly picks a mission from among the selected expansions
