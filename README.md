@@ -32,15 +32,18 @@ However, the final call on what will or will not get included is at the curator'
 
 ### Notable Forum Threads on BGG
 
+(In reverse order of creation - most recently created threads at the top of the list.)
+
   - 2023-08-10 ~ 2023-11-10 [European shops (maintained list)](https://boardgamegeek.com/thread/3133536/european-shops-maintained-list)
   - 2018-05-04 ~ 2023-08-12 [Atmospheric background music / Spotify playlists for Shadows of Brimstone](https://boardgamegeek.com/thread/1987614/atmospheric-background-music-spotify-playlists-for)
 
 ## Unofficial Content
 
+(In alphabetical order, after removing any "Shadows of Brimstone" prefix - except for a few "pinned" links at the top).
+
   - **[SoB:CotA Files on BoardGameGeek](https://boardgamegeek.com/boardgame/146791/shadows-of-brimstone-city-of-the-ancients/files)** - a huge trove of community-contributed unofficial content for the _Shadows of Brimstone_ game series - either universally for the whole series, or specifically for Old West content
     - [SoB:FoFo Files on BoardGameGeek](https://boardgamegeek.com/boardgame/212346/shadows-of-brimstone-forbidden-fortress/files) - community-contributed unofficial content specifically for _Forbidden Fortress_
     - [SoBA:GoV Files on BoardGameGeek](https://boardgamegeek.com/boardgame/273655/shadows-of-brimstone-gates-of-valhalla/files) - community-contributed unofficial content specifically for _Gates of Valhalla_
     - [SoBA:VotSK Files on BoardGameGeek](https://boardgamegeek.com/boardgame/273654/shadows-of-brimstone-valley-of-the-serpent-kings) - community-contributed unofficial content specifically for _Valley of the Serpent Kings_
-
   - [Klutz's Card Factory](https://cardfactory.kbelisle.ca/) (webapp) - draws a high-quality image (PNG format) of a full _SoB_ card face with text contents entered by the user
   - [Shadows of Brimstone Mission Generator](https://brimstonemissiongenerator.azurewebsites.net/) (webapp) - randomly picks a mission from among the selected expansions
