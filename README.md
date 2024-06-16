@@ -89,6 +89,7 @@ To be included, the lists should generally not include videos unrelated to SoB.
     - 🇮🇹-IT [Shadows of Brimstone - Campagna 2](https://www.youtube.com/playlist?list=PLnKuXMFxxZed82r0g9zS8FHD6FD7ZxzkV) - Actual Plays - in Italian 🇮🇹
     - 🇮🇹-IT [Shadows of Brimstone - Campagna 3 (Molly e Atahualpa)](https://www.youtube.com/playlist?list=PLnKuXMFxxZeeVg1peHtOlG_zsAVoGB5-5) - Actual Plays - in Italian 🇮🇹
     - 🇮🇹-IT [Shadows of Brimstone - Valley of the Serpent Kings - Fernanda De...](https://www.youtube.com/playlist?list=PLnKuXMFxxZecIh-s-aUpYTj5qHO7KF2fR) - Actual Plays - in Italian 🇮🇹
+    - 🇮🇹-IT [Valley of the Serpent Kings - Fernanda e Diego](https://www.youtube.com/playlist?list=PLnKuXMFxxZeffSpQzYI8UVa1UMGwqFBCp) - Actual Plays - in Italian 🇮🇹
   - boardgametv8275 on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLGHz0L_lMpNplgP5HWiJaFg6RB8yEwuGk) - Actual Plays
   - bulletstormxLY on Youtube: [Forbidden Fortress](https://www.youtube.com/playlist?list=PLR3fDG4xfBzQWkwZB9QxMXUrr02jOtwa6) - Actual Plays
   - callasmar on Youtube:
