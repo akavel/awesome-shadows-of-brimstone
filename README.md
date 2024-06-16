@@ -82,6 +82,7 @@ Note: Actual Plays should be lists with at least 3 episodes/sessions.
     - [Forbidden Fortress with my daughter](https://www.youtube.com/playlist?list=PLx2JcTwwLnK9DvYQaJt-KgSa57ayDtg9I) - team Actual Plays
     - [Shadows of Brimstone: Strike Team 'Burbs'](https://www.youtube.com/playlist?list=PLx2JcTwwLnK8lmmxn6M03Xe93GUvI2AAM) - team Actual Plays
   - LearntoPlayGames on Youtube: [Learn to Play: Shadows of Brimstone](https://youtu.be/kWQErXUUpnw) - a learning guide
+  - slickerdrips on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PL8J_Z1CANAQuBTxT4tZxuHA3PhSdCeNuU) - Actual Plays
   - sologamersclub on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLLN9Pm8MWdPteksEQ3vj5KDe3_Vxr7nnT) - Actual Plays
   - TheDungeonDive on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLKewgRd8Eir9YKPPCrOy9KzRJ270BlMj2) - a comprehensive & subjective buyer's guide and reviews
   - WarhammerDad on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLIsZfrSqOd1URQ3Y557_Gyxk_9gXE7fbL) - Actual Plays
