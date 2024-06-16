@@ -55,6 +55,7 @@ or in the [announcement thread on Reddit](https://old.reddit.com/r/shadowsofbrim
   - [Card Holder](https://www.thingiverse.com/thing:622503) (3d printable)
   - [Klutz's Card Factory](https://cardfactory.kbelisle.ca/) (webapp) - draws a high-quality image (PNG format) of a full _SoB_ card face with text contents entered by the user
   - [Shadows of Brimstone Mission Generator](https://brimstonemissiongenerator.azurewebsites.net/) (webapp) - randomly picks a mission from among the selected expansions
+  - [Shadows of Brimstone Slider Usage](https://www.youtube.com/watch?v=omf8aKfSShc) (youtube, DIY) - a DIY experience & money tracker for _SoB_
 
 ## Unofficial content (search links, including paid items)
 
