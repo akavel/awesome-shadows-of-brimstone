@@ -55,6 +55,7 @@ or in the [announcement thread on Reddit](https://old.reddit.com/r/shadowsofbrim
   - [Card Holder](https://www.thingiverse.com/thing:622503) (3d printable)
   - [Klutz's Card Factory](https://cardfactory.kbelisle.ca/) (webapp) - draws a high-quality image (PNG format) of a full _SoB_ card face with text contents entered by the user
   - [Shadows of Brimstone Mission Generator](https://brimstonemissiongenerator.azurewebsites.net/) (webapp) - randomly picks a mission from among the selected expansions
+  - [Shadows of Brimstone Rule Reference Tool](https://grit-podcast.com/sob-rules-tool/index.html) (webapp) - searchable database of _SoB_ rules
   - [Shadows of Brimstone Slider Usage](https://www.youtube.com/watch?v=omf8aKfSShc) (youtube, DIY) - a DIY experience & money tracker for _SoB_
 
 ## Unofficial content (search links, including paid items)
@@ -66,7 +67,7 @@ Note: no single-item links, this is not intended as an ads board, but as a playe
     ["Shadows of Brimstone" search](https://www.thingiverse.com/search?q=shadows+of+brimstone),
     ["Shadows of Brimstone" tag](https://www.thingiverse.com/tag:shadows_of_brimstone) - 3d-printable designs
 
-## Learning & Actual Plays
+## Learning, Actual Plays, Podcasts
 
 Note: Actual Plays or Reviews should be lists with at least 3 episodes/sessions.
 Unboxing videos are not automatically considered a Review.
@@ -80,6 +81,9 @@ To be included, the lists should generally not include videos unrelated to SoB.
       [Season 2](https://www.youtube.com/playlist?list=PL-ORTC2erVWyMD2MviZaZb3x4NeFENOoR),
       [Season 3](https://www.youtube.com/playlist?list=PL-ORTC2erVWxQ02SHxclw0XGkcVdv4zTd) - solo Actual Plays
     - [Artemus Tau Trederran Veteran](https://www.youtube.com/playlist?list=PL-ORTC2erVWwGzXCrPPW4Yvee5QCvwuSw) - solo Actual Plays
+  - **[GRIT - a Shadows of Brimstone podcast](https://grit-podcast.com/)** (podcast)
+    - a list of [all episodes](https://grit-podcast.com/all-episodes) of the podcast
+    - [SoB Rule Reference Tool](https://grit-podcast.com/sob-rules-tool/index.html)
   - andvice on Youtube: 🇮🇹-IT [Let's Play Shadows of Brimstone (ITA)](https://www.youtube.com/playlist?list=PLnKuXMFxxZeeJbZWbuhMrVRHVt53Q43Fs) - Actual Plays - in Italian 🇮🇹
   - boardgametv8275 on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLGHz0L_lMpNplgP5HWiJaFg6RB8yEwuGk) - Actual Plays
   - bulletstormxLY on Youtube: [Forbidden Fortress](https://www.youtube.com/playlist?list=PLR3fDG4xfBzQWkwZB9QxMXUrr02jOtwa6) - Actual Plays
