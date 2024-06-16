@@ -110,6 +110,11 @@ To be included, the lists should generally not include videos unrelated to SoB.
   - hefrvifamilygaming9540 on Youtube:
     - [Forbidden Fortress with my daughter](https://www.youtube.com/playlist?list=PLx2JcTwwLnK9DvYQaJt-KgSa57ayDtg9I) - team Actual Plays
     - [Shadows of Brimstone: Strike Team 'Burbs'](https://www.youtube.com/playlist?list=PLx2JcTwwLnK8lmmxn6M03Xe93GUvI2AAM) - team Actual Plays
+  - jafo2007 on Youtube:
+    - [Shadows of Brimstone season 1](https://www.youtube.com/playlist?list=PLc-LFXGBqljKlrhH-tGBaMOosbsCjTDjE) - Actual Plays
+    - [Shadows of Brimstone Season 2](https://www.youtube.com/playlist?list=PLc-LFXGBqljKJH_I1xMsg8pdWyD0DtBCl) - Actual Plays
+    - [Shadows of Brimstone Forbidden Fortress](https://www.youtube.com/playlist?list=PLc-LFXGBqljK9kI0bLbOKSaePrDkY16UB) - Actual Plays
+    - [Shadows of brimstone Story of Amina the Kitsune](https://www.youtube.com/playlist?list=PLc-LFXGBqljKmDBxBidoBd1Gj_Eq-jbRp) - Actual Plays
   - LearntoPlayGames on Youtube: [Learn to Play: Shadows of Brimstone](https://youtu.be/kWQErXUUpnw) - a learning guide
   - LearnToPlaythrough on Youtube:
     - [Shadows of Brimstone - City of the Ancients: A Fistful of Dark Stone](https://www.youtube.com/playlist?list=PL4R2PYHP-No0rn7TY2KQrmqr6fdcXSdf1) - Actual Plays, learning comments (also: painting, unboxing)
