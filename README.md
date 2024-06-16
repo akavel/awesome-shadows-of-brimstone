@@ -23,6 +23,7 @@ However, the final call on what will or will not get included is at the curator'
     - [Valley of the Serpent Kings Rulebook](http://www.flyingfrog.net/BrimstoneAdventures/pdf/SBVS_Rulebook_FINAL_WEB_sm.pdf)
   - [Shadows of Brimstone: Lost Tombs and The Hell Train - SoB Kickstarter campaign #4](https://www.kickstarter.com/projects/1034852783/shadows-of-brimstone-lost-tombs-and-the-hell-train)
   - Flying Frog Productions [Official Store](https://flyingfrogproductions.mybigcommerce.com/)
+  - Flying Frog Productions [official channel on Youtube](https://www.youtube.com/user/flyingfrogprod)
 
 ## Community
 
