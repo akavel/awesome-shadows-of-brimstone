@@ -105,4 +105,5 @@ To be included, the lists should generally not include videos unrelated to SoB.
   - sologamersclub on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLLN9Pm8MWdPteksEQ3vj5KDe3_Vxr7nnT) - Actual Plays
   - TheDungeonDive on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLKewgRd8Eir9YKPPCrOy9KzRJ270BlMj2) - a comprehensive & subjective buyer's guide and reviews
   - TheMarylandMartins on Youtube: [Pimping and Organizing Shadows of Brimstone](https://youtu.be/bzFkW_knMts) - organizing guide
+  - tinat174 on Youtube: [Shadows of Brimstone City of Ancients](https://www.youtube.com/playlist?list=PLxWFigAAtUCNVTsUxcfpqpFSofCqiSKTP) - Actual Plays
   - WarhammerDad on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLIsZfrSqOd1URQ3Y557_Gyxk_9gXE7fbL) - Actual Plays
