@@ -67,7 +67,9 @@ Note: no single-item links, this is not intended as an ads board, but as a playe
 
 ## Learning & Actual Plays
 
-Note: Actual Plays should be lists with at least 3 episodes/sessions.
+Note: Actual Plays or Reviews should be lists with at least 3 episodes/sessions.
+Unboxing videos are not automatically considered a Review.
+Actual Play videos are not automatically considered a Learning Guide.
 
 (Youtube channels in alphabetical order of channel @-name - except for a few "pinned" links at the top.)
 
@@ -77,6 +79,7 @@ Note: Actual Plays should be lists with at least 3 episodes/sessions.
       [Season 3](https://www.youtube.com/playlist?list=PL-ORTC2erVWxQ02SHxclw0XGkcVdv4zTd) - solo Actual Plays
     - [Artemus Tau Trederran Veteran](https://www.youtube.com/playlist?list=PL-ORTC2erVWwGzXCrPPW4Yvee5QCvwuSw) - solo Actual Plays
   - boardgametv8275 on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLGHz0L_lMpNplgP5HWiJaFg6RB8yEwuGk) - Actual Plays
+  - DaletheCasualGamer on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLNgtKvK62sXq7Sac1ll3g8xrV00YEXpax) - Actual Plays, partial learning guides (also: unboxings & others)
   - DieRollin on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PL-N2QYgmYGrfcVlmvk_DTYLOo03fx4Uoz) - Actual Plays
   - elympian on Youtube: [Shadows of Brimstone Adventures how to play](https://youtu.be/XD9Tz60bBc8) - a learning guide
   - hefrvifamilygaming9540 on Youtube:
