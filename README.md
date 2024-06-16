@@ -86,6 +86,9 @@ Actual Play videos are not automatically considered a Learning Guide.
     - [Forbidden Fortress with my daughter](https://www.youtube.com/playlist?list=PLx2JcTwwLnK9DvYQaJt-KgSa57ayDtg9I) - team Actual Plays
     - [Shadows of Brimstone: Strike Team 'Burbs'](https://www.youtube.com/playlist?list=PLx2JcTwwLnK8lmmxn6M03Xe93GUvI2AAM) - team Actual Plays
   - LearntoPlayGames on Youtube: [Learn to Play: Shadows of Brimstone](https://youtu.be/kWQErXUUpnw) - a learning guide
+  - PrattskiTheTabletopGamer on Youtube:
+    - [Shadows of Brimstone: Organization Difficulty Level 99+](https://youtu.be/Yo8WUZxIFgw) - organizing guide
+    - [Shadows of Brimstone - Campaigns](https://www.youtube.com/playlist?list=PLNgtKvK62sXq7Sac1ll3g8xrV00YEXpax) - Actual Plays
   - slickerdrips on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PL8J_Z1CANAQuBTxT4tZxuHA3PhSdCeNuU) - Actual Plays
   - sologamersclub on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLLN9Pm8MWdPteksEQ3vj5KDe3_Vxr7nnT) - Actual Plays
   - TheDungeonDive on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLKewgRd8Eir9YKPPCrOy9KzRJ270BlMj2) - a comprehensive & subjective buyer's guide and reviews
