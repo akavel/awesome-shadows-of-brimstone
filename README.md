@@ -4,6 +4,8 @@ A curated list of links to useful and interesting content for the _Shadows of Br
 
 Please note: the list is open and encouraging to contributions!
 However, the final call on what will or will not get included is at the curator's discretion.
+To propose a link for addition, please open a PR, or post an issue,
+or post in the [announcement thread on BGG](https://boardgamegeek.com/thread/3318676/announcing-an-awesome-list-of-useful-links-for-sob).
 
 ## Official
 
