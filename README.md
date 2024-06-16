@@ -82,6 +82,7 @@ Actual Play videos are not automatically considered a Learning Guide.
   - DaletheCasualGamer on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLNgtKvK62sXq7Sac1ll3g8xrV00YEXpax) - Actual Plays, partial learning guides (also: unboxings & others)
   - DieRollin on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PL-N2QYgmYGrfcVlmvk_DTYLOo03fx4Uoz) - Actual Plays
   - elympian on Youtube: [Shadows of Brimstone Adventures how to play](https://youtu.be/XD9Tz60bBc8) - a learning guide
+  - gaminggeek241 on Youtube: [Shadows of Brimstone Minecart Painted & Game Management](https://youtu.be/yrgoTRUcM2M) - organizing guide 
   - hefrvifamilygaming9540 on Youtube:
     - [Forbidden Fortress with my daughter](https://www.youtube.com/playlist?list=PLx2JcTwwLnK9DvYQaJt-KgSa57ayDtg9I) - team Actual Plays
     - [Shadows of Brimstone: Strike Team 'Burbs'](https://www.youtube.com/playlist?list=PLx2JcTwwLnK8lmmxn6M03Xe93GUvI2AAM) - team Actual Plays
