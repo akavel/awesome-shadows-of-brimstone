@@ -75,3 +75,4 @@ Note: Actual Plays should be lists with at least 3 episodes/sessions.
       [Season 3](https://www.youtube.com/playlist?list=PL-ORTC2erVWxQ02SHxclw0XGkcVdv4zTd)
     - [Artemus Tau Trederran Veteran](https://www.youtube.com/playlist?list=PL-ORTC2erVWwGzXCrPPW4Yvee5QCvwuSw)
   - [Learn to Play: Shadows of Brimstone](https://youtu.be/kWQErXUUpnw) (youtube) by LearntoPlayGames
+  - [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLKewgRd8Eir9YKPPCrOy9KzRJ270BlMj2) (youtube) by TheDungeonDive - comprehensive & subjective buyer's guide and reviews
