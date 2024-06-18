@@ -46,6 +46,7 @@ or in the [announcement thread on Reddit](https://old.reddit.com/r/shadowsofbrim
   - 2023-09-30 [Added "category" tags to all Files](https://boardgamegeek.com/thread/3162677/added-category-tags-to-all-files)
   - 2023-08-10 ~ 2023-11-10 [European shops (maintained list)](https://boardgamegeek.com/thread/3133536/european-shops-maintained-list)
   - 2018-05-04 ~ 2023-08-12 [Atmospheric background music / Spotify playlists for Shadows of Brimstone](https://boardgamegeek.com/thread/1987614/atmospheric-background-music-spotify-playlists-for)
+  - 2016-01-14 ~ 2023-12-18 [Promo Cards](https://boardgamegeek.com/thread/1506678/promo-cards) - _"a list of the promo cards (...) available as card sets and as gift when purchasing the game directly from Flying Frog, either online as part of the kickstarter or at conventions"_
   - 2015-01-05 [3D Printed Card Holder](https://boardgamegeek.com/thread/1296073/3d-printed-card-holder)
   - 2014-11-19 [Foam Core Card Holder (...)](https://boardgamegeek.com/thread/1272296/foam-core-card-holder-for-less-than-dollar-4) - DIY design, with instructions
   - _Inspector Jee_'s [all replies in SoB:CotA forum on BGG](https://boardgamegeek.com/article/browse/boardgame/146791/page/1?sort=recent&username=Inspector%20Jee) - his knowledge, expertise, and eagerness to help in the field of _SoB_ rules are unmatched
