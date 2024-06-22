@@ -115,6 +115,7 @@ To be included, the lists should generally not include videos unrelated to SoB.
     - [Broken Seals: Shadows of Brimstone Playthrough #9](https://www.youtube.com/playlist?list=PLvkAdtnwUzTYatWpeXaSlBN0I6xNm0Xiw)
     - [A Fistful Of Darkstone | Shadows Of Brimstone... RELOADED...](https://www.youtube.com/playlist?list=PLvkAdtnwUzTZq3tz-l2gMrH6YHLjRHWVC)
     - [For A Few Darkstone More | Shadows Of Brimstone...](https://www.youtube.com/playlist?list=PLvkAdtnwUzTYvi-fGW5akcLHmVlPByEBM)
+  - CrawlingWithDungeons-zw8nk on Youtube: [Shadows of Brimstone Solo Campaign 1](https://www.youtube.com/playlist?list=PLdvDvaW9NDYS2kq3V4LtRyQRleh7o9Hj_)
   - DaletheCasualGamer on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLNgtKvK62sXq7Sac1ll3g8xrV00YEXpax) - Actual Plays, partial learning guides (also: unboxings & others)
   - DieRollin on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PL-N2QYgmYGrfcVlmvk_DTYLOo03fx4Uoz) - Actual Plays
   - Dougmysticeye on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLSxVbnQ1EfACNVx-yE5XPcAoeSa034SIq) - Actual Plays
