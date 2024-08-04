@@ -35,6 +35,11 @@ or in the [announcement thread on Reddit](https://old.reddit.com/r/shadowsofbrim
   - [Forum on BoardGameGeek](https://boardgamegeek.com/boardgame/146791/shadows-of-brimstone-city-of-the-ancients/forums) - main unofficial community forum for all topics related to the _Shadows of Brimstone_ game series
   - [r/ShadowsOfBrimstone on Reddit](https://old.reddit.com/r/shadowsofbrimstone/) - unofficial subreddit devoted to the _Shadows of Brimstone_ game series
   - [Shadows of Brimstone Wiki](https://shadows-of-brimstone.fandom.com) (unofficial, on fandom.com)
+    - Some notable pages:
+      [Heroes and Hero Packs](https://shadows-of-brimstone.fandom.com/wiki/Heroes_and_Hero_Packs),
+      [Promo Cards](https://shadows-of-brimstone.fandom.com/wiki/Promo_Cards),
+      [Set Indicator Symbols](https://shadows-of-brimstone.fandom.com/wiki/Set_Indicator_Symbols),
+      [Worlds and OtherWorlds](https://shadows-of-brimstone.fandom.com/wiki/Worlds_and_OtherWorlds)
   - unofficial markets:
     - [Shadows of Brimstone: Trade & Sell on Facebook](https://www.facebook.com/groups/1631825153601332/) - unofficial market for _SoB_ content - mainly US and UK
     - [Shadows of Brimstone Trade & Sell EUROPE on Facebook](https://www.facebook.com/groups/2697987203565208/) - unofficial market for _SoB_ content in Europe
