@@ -27,12 +27,14 @@ or in the [announcement thread on Reddit](https://old.reddit.com/r/shadowsofbrim
   - [Shadows of Brimstone: Lost Tombs and The Hell Train - SoB Kickstarter campaign #4](https://www.kickstarter.com/projects/1034852783/shadows-of-brimstone-lost-tombs-and-the-hell-train)
   - Flying Frog Productions [Official Store](https://flyingfrogproductions.mybigcommerce.com/)
   - Flying Frog Productions [official channel on Youtube](https://www.youtube.com/user/flyingfrogprod)
+  - Flying Frog Productions [official wiki](https://flyingfrogwiki.com)
 
 ## Community
 
   - [Shadows of Brimstone Community Group on Facebook](https://www.facebook.com/groups/1471685729750432/) - semi-official discussion group, administered by the _Flying Frog Productions_ staff
   - [Forum on BoardGameGeek](https://boardgamegeek.com/boardgame/146791/shadows-of-brimstone-city-of-the-ancients/forums) - main unofficial community forum for all topics related to the _Shadows of Brimstone_ game series
   - [r/ShadowsOfBrimstone on Reddit](https://old.reddit.com/r/shadowsofbrimstone/) - unofficial subreddit devoted to the _Shadows of Brimstone_ game series
+  - [Shadows of Brimstone Wiki](https://shadows-of-brimstone.fandom.com) (unofficial, on fandom.com)
   - unofficial markets:
     - [Shadows of Brimstone: Trade & Sell on Facebook](https://www.facebook.com/groups/1631825153601332/) - unofficial market for _SoB_ content - mainly US and UK
     - [Shadows of Brimstone Trade & Sell EUROPE on Facebook](https://www.facebook.com/groups/2697987203565208/) - unofficial market for _SoB_ content in Europe
