@@ -50,7 +50,7 @@ or in the [announcement thread on Reddit](https://old.reddit.com/r/shadowsofbrim
 
 (In reverse order of creation - most recently created threads at the top of the list.)
 
-  - 2023-09-30 [Added "category" tags to all Files](https://boardgamegeek.com/thread/3162677/added-category-tags-to-all-files)
+  - 2023-09-30 ~ 2024-06-16 [Added "category" tags to all Files](https://boardgamegeek.com/thread/3162677/added-category-tags-to-all-files)
   - 2023-08-10 ~ 2023-11-10 [European shops (maintained list)](https://boardgamegeek.com/thread/3133536/european-shops-maintained-list)
   - 2018-05-04 ~ 2023-08-12 [Atmospheric background music / Spotify playlists for Shadows of Brimstone](https://boardgamegeek.com/thread/1987614/atmospheric-background-music-spotify-playlists-for)
   - 2016-03-24 ~ 2024-07-16 [Missions Collection (and where to find them)](https://boardgamegeek.com/thread/1548039/missions-collection-and-where-to-find-them) - _"List of the known \[official and unofficial] Missions"_
