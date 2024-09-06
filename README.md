@@ -52,6 +52,7 @@ or in the [announcement thread on Reddit](https://old.reddit.com/r/shadowsofbrim
 
   - 2023-09-30 ~ 2024-06-16 [Added "category" tags to all Files](https://boardgamegeek.com/thread/3162677/added-category-tags-to-all-files)
   - 2023-08-10 ~ 2023-11-10 [European shops (maintained list)](https://boardgamegeek.com/thread/3133536/european-shops-maintained-list)
+  - 2020-10-10 ~ 2021-01-15 [Revised Core Set Changes Review](https://boardgamegeek.com/thread/2518566/revised-core-set-changes-review) compared to the original Core Sets in versions from the 1st Kickstarter
   - 2018-05-04 ~ 2023-08-12 [Atmospheric background music / Spotify playlists for Shadows of Brimstone](https://boardgamegeek.com/thread/1987614/atmospheric-background-music-spotify-playlists-for)
   - 2016-03-24 ~ 2024-07-16 [Missions Collection (and where to find them)](https://boardgamegeek.com/thread/1548039/missions-collection-and-where-to-find-them) - _"List of the known \[official and unofficial] Missions"_
   - 2016-01-14 ~ 2023-12-18 [Promo Cards](https://boardgamegeek.com/thread/1506678/promo-cards) - _"a list of the promo cards (...) available as card sets and as gift when purchasing the game directly from Flying Frog, either online as part of the kickstarter or at conventions"_
