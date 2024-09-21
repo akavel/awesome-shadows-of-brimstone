@@ -160,7 +160,9 @@ To be included, the lists should generally not include videos unrelated to SoB.
     - [Shadows of Brimstone: Organization Difficulty Level 99+](https://youtu.be/Yo8WUZxIFgw) - organizing guide
     - [Shadows of Brimstone - Campaigns](https://www.youtube.com/playlist?list=PLNgtKvK62sXq7Sac1ll3g8xrV00YEXpax) - Actual Plays
   - realjplay on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLQcL0QgYU_akxtdwNtOjsAlr6FgK6y5CO) - Actual Plays, with some learning comments
-  - Shatterdicegaming on Youtube: [Shadows of Brimstone reviews](https://www.youtube.com/playlist?list=PLy51jeVrro9Oqp6ROQvZZFiIOHfh1gawQ) - reviews of the core game and selected expansions
+  - Shatterdicegaming on Youtube:
+    - [Shadows of Brimstone reviews](https://www.youtube.com/playlist?list=PLy51jeVrro9Oqp6ROQvZZFiIOHfh1gawQ) - reviews of the core game and selected expansions
+    - [Shadows Of Brimstone The Animated Series](https://www.youtube.com/playlist?list=PLy51jeVrro9PXOT2_BH7Ysasot8dT-uPE)
   - slickerdrips on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PL8J_Z1CANAQuBTxT4tZxuHA3PhSdCeNuU) - Actual Plays
   - sologamersclub on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLLN9Pm8MWdPteksEQ3vj5KDe3_Vxr7nnT) - Actual Plays
   - TheDungeonDive on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLKewgRd8Eir9YKPPCrOy9KzRJ270BlMj2) - a comprehensive & subjective buyer's guide and reviews
