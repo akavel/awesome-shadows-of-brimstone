@@ -137,6 +137,8 @@ To be included, the lists should generally not include videos unrelated to SoB.
   - hefrvifamilygaming9540 on Youtube:
     - [Forbidden Fortress with my daughter](https://www.youtube.com/playlist?list=PLx2JcTwwLnK9DvYQaJt-KgSa57ayDtg9I) - team Actual Plays
     - [Shadows of Brimstone Integrations](https://www.youtube.com/playlist?list=PLx2JcTwwLnK9t6Jh9nnudDWJkz35iUgtB) - how to integrate various Core Sets together (including Original/Revised, as well as Forbidden Fortress)
+    - [Shadows of Brimstone Unboxings](https://youtube.com/playlist?list=PLx2JcTwwLnK_ydtKNcqW3T-8gPZoG_w9x)
+    - [Shadows of Brimstone Deathmatches](https://www.youtube.com/playlist?list=PLx2JcTwwLnK-cGR1iGozHKI8f7p_ClCYy)
     - [Shadows of Brimstone: Strike Team 'Burbs'](https://www.youtube.com/playlist?list=PLx2JcTwwLnK8lmmxn6M03Xe93GUvI2AAM) - team Actual Plays
   - jafo2007 on Youtube:
     - [Shadows of Brimstone season 1](https://www.youtube.com/playlist?list=PLc-LFXGBqljKlrhH-tGBaMOosbsCjTDjE) - Actual Plays
