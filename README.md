@@ -111,7 +111,6 @@ To be included, the lists should generally not include videos unrelated to SoB.
     - 🇮🇹-IT [La saga di Knut il Pazzo (Gates of Valhalla, Shadows of Brimstone (ITA)](https://www.youtube.com/playlist?list=PLnKuXMFxxZec3xOmPCP_A2G4zf16heS9l) - Actual Plays - in Italian 🇮🇹
     - 🇮🇹-IT [Shadows of Brimstone - STRIKE TEAM!](https://www.youtube.com/playlist?list=PLnKuXMFxxZeemgCv-o3ULFcN96g-8XdNk) - Actual Plays - in Italian 🇮🇹
     - 🇮🇹-IT [Shadows of Brimstone - STRIKE TEAM 2!](https://www.youtube.com/playlist?list=PLnKuXMFxxZecvbVWObAOOZfU-g4dXiRaa) - Actual Plays - in Italian 🇮🇹
-    - 🇮🇹-IT [Sotto i soli Gemelli - Shadows of Brimstone Blasted Wastes](https://www.youtube.com/playlist?list=PLnKuXMFxxZed_i2aoJd3tpFhQI9jWAsUo) - Actual Plays - in Italian 🇮🇹
   - boardgametv8275 on Youtube: [Shadows of Brimstone](https://www.youtube.com/playlist?list=PLGHz0L_lMpNplgP5HWiJaFg6RB8yEwuGk) - Actual Plays
   - bulletstormxLY on Youtube: [Forbidden Fortress](https://www.youtube.com/playlist?list=PLR3fDG4xfBzQWkwZB9QxMXUrr02jOtwa6) - Actual Plays
   - callasmar on Youtube:
