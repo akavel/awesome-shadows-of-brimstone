@@ -72,7 +72,9 @@ or in the [announcement thread on Reddit](https://old.reddit.com/r/shadowsofbrim
   - [SoB Card Generator](http://jparkerweb.github.io/card-generator-sob/) (webapp) - draws a high-quality image (PNG format) of a full _SoB_ card face with layout details and contents entered by the user
   - [Card Holder](https://www.thingiverse.com/thing:622503) (3d printable)
   - [Klutz's Card Factory](https://cardfactory.kbelisle.ca/) (webapp) - draws a high-quality image (PNG format) of a full _SoB_ card face with text contents entered by the user
-  - [Shadows of Brimstone Mission Generator](https://brimstonemissiongenerator.azurewebsites.net/) (webapp) - randomly picks a mission from among the selected expansions
+  - [Shadows of Brimstone Digital Threat Deck](https://perchance.org/sob-threat-deck) (webapp, perchance) - randomly picks a Threat card from among the selected expansions
+  - [Shadows of Brimstone Mission Generator](https://brimstonemissiongenerator.azurewebsites.net/) (webapp, custom) - randomly picks a mission from among the selected expansions
+  - [Shadows of Brimstone Mission Generator](https://perchance.org/sob-mission-generator) (webapp, perchance) - randomly picks a mission from among the selected expansions
   - [Shadows of Brimstone Rule Reference Tool](https://grit-podcast.com/sob-rules-tool/index.html) (webapp) - searchable database of _SoB_ rules
   - [Shadows of Brimstone Slider Usage](https://www.youtube.com/watch?v=omf8aKfSShc) (youtube, DIY) - a DIY experience & money tracker for _SoB_
 
