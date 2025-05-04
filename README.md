@@ -44,6 +44,7 @@ or in the [announcement thread on Reddit](https://old.reddit.com/r/shadowsofbrim
     - [Shadows of Brimstone: Trade & Sell on Facebook](https://www.facebook.com/groups/1631825153601332/) - unofficial market for _SoB_ content - mainly US and UK
     - [Shadows of Brimstone Trade & Sell EUROPE on Facebook](https://www.facebook.com/groups/2697987203565208/) - unofficial market for _SoB_ content in Europe
   - local groups:
+    - 🇦🇺-AU [Shadows of Brimstone Australia on Facebook](https://facebook.com/groups/brimstone.oz/) - unofficial Australian group, with trade & sell posts allowed 🇦🇺
     - 🇵🇱-PL [Shadows of Brimstone - Polska on Facebook](https://www.facebook.com/groups/329042658407032/) - unofficial Polish-language group 🇵🇱
 
 ### Notable Forum Threads on BGG
