@@ -51,6 +51,7 @@ or in the [announcement thread on Reddit](https://old.reddit.com/r/shadowsofbrim
 
 (In reverse order of creation - most recently created threads at the top of the list.)
 
+  - 2025-05-11 ~ 2025-05-12 [Token Sizes or Measurements For Coin Capsule Storage?](https://boardgamegeek.com/thread/3510413/token-sizes-or-measurements-for-coin-capsule-stora)
   - 2023-09-30 ~ 2024-06-16 [Added "category" tags to all Files](https://boardgamegeek.com/thread/3162677/added-category-tags-to-all-files)
   - 2023-08-10 ~ 2023-11-10 [European shops (maintained list)](https://boardgamegeek.com/thread/3133536/european-shops-maintained-list)
   - 2020-10-10 ~ 2021-01-15 [Revised Core Set Changes Review](https://boardgamegeek.com/thread/2518566/revised-core-set-changes-review) compared to the original Core Sets in versions from the 1st Kickstarter
