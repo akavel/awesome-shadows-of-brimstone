@@ -62,6 +62,17 @@ or in the [announcement thread on Reddit](https://old.reddit.com/r/shadowsofbrim
   - 2015-01-05 [3D Printed Card Holder](https://boardgamegeek.com/thread/1296073/3d-printed-card-holder)
   - 2014-11-19 [Foam Core Card Holder (...)](https://boardgamegeek.com/thread/1272296/foam-core-card-holder-for-less-than-dollar-4) - DIY design, with instructions
   - _Inspector Jee_'s [all replies in SoB:CotA forum on BGG](https://boardgamegeek.com/article/browse/boardgame/146791/page/1?sort=recent&username=Inspector%20Jee) - his knowledge, expertise, and eagerness to help in the field of _SoB_ rules are unmatched
+  - some **storage/organization/table setup** threads:
+    - 2025:
+      [May 2](https://boardgamegeek.com/thread/3505726/your-setup-at-the-table)
+    - 2023:
+      [Jul 16](https://boardgamegeek.com/thread/3118211),
+      [Feb 5](https://boardgamegeek.com/thread/3022353),
+      [Jan 16](https://boardgamegeek.com/thread/3009574)
+    - 2020:
+      [May 20](https://boardgamegeek.com/thread/2432421/map-tile-storage-option)
+    - 2015:
+      [Feb 1](https://boardgamegeek.com/thread/1312596/best-card-deck-holder-card-storage)
 
 ## Unofficial Content (free)
 
