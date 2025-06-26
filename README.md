@@ -88,6 +88,7 @@ or in the [announcement thread on Reddit](https://old.reddit.com/r/shadowsofbrim
   - [Shadows of Brimstone Digital Threat Deck](https://perchance.org/sob-threat-deck) (webapp, perchance) - randomly picks a Threat card from among the selected expansions
   - [Shadows of Brimstone Mission Generator](https://brimstonemissiongenerator.azurewebsites.net/) (webapp, custom) - randomly picks a mission from among the selected expansions
   - [Shadows of Brimstone Mission Generator](https://perchance.org/sob-mission-generator) (webapp, perchance) - randomly picks a mission from among the selected expansions
+  - [Shadows of Brimstone Quick Reference](https://www.deathforgegames.com/shadowsofbrimstonereference) (webapp) - searchable database of _SoB_ rules
   - [Shadows of Brimstone Rule Reference Tool](https://grit-podcast.com/sob-rules-tool/index.html) (webapp) - searchable database of _SoB_ rules
   - [Shadows of Brimstone Slider Usage](https://www.youtube.com/watch?v=omf8aKfSShc) (youtube, DIY) - a DIY experience & money tracker for _SoB_
 
