@@ -33,6 +33,7 @@ or in the [announcement thread on Reddit](https://old.reddit.com/r/shadowsofbrim
 
   - [Shadows of Brimstone Community Group on Facebook](https://www.facebook.com/groups/1471685729750432/) - semi-official discussion group, administered by the _Flying Frog Productions_ staff
   - [Forum on BoardGameGeek](https://boardgamegeek.com/boardgame/146791/shadows-of-brimstone-city-of-the-ancients/forums) - main unofficial community forum for all topics related to the _Shadows of Brimstone_ game series
+    - ["game family" on BGG](https://boardgamegeek.com/boardgamefamily/25738/game-shadows-of-brimstone) - a list of all SoB contents on BGG
   - [r/ShadowsOfBrimstone on Reddit](https://old.reddit.com/r/shadowsofbrimstone/) - unofficial subreddit devoted to the _Shadows of Brimstone_ game series
   - [Shadows of Brimstone Wiki](https://shadows-of-brimstone.fandom.com) (unofficial, on fandom.com)
     - Some notable pages:
