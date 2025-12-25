@@ -15,7 +15,11 @@ or in the [announcement thread on Reddit](https://old.reddit.com/r/shadowsofbrim
       & [Adventure Book](http://www.flyingfrog.net/shadowsofbrimstone/pdf/REV__SBCA_AdvBook_WEB.pdf) (revised)
     - [Swamps of Death Rulebook](http://www.flyingfrog.net/shadowsofbrimstone/pdf/REV__SBSD_Rulebook_WEB.pdf)
       & [Adventure Book](http://www.flyingfrog.net/shadowsofbrimstone/pdf/REV__SBSD_AdvBook_WEB.pdf) (revised)
-    - [Official FAQ](http://www.flyingfrog.net/FAQ_Docs/SOBS_FAQ_Version_11-27-2019_Web.pdf) version 1.02 (2019-11-27)
+    - [Official FAQ](https://www.flyingfrog.net/FAQ_Docs/SOBS_FAQ_V_02_01_Web.pdf) version 2.01 (2025-10-24)
+      - also: [higher quality print version](https://www.flyingfrog.net/FAQ_Docs/SOBS_FAQ_V_02_01_HQPrint.pdf)
+      - older versions: [1.02](http://www.flyingfrog.net/FAQ_Docs/SOBS_FAQ_Version_11-27-2019_Web.pdf) (2019-11-27)
+    - [Reference - Tokens](https://www.flyingfrog.net/FAQ_Docs/SOBS_Reference_Tokens_2025_10_24_Web.pdf) (2025-10-24)
+      - also: [higher quality print version](https://www.flyingfrog.net/FAQ_Docs/SOBS_Reference_Tokens_2025_10_24.pdf) (2025-10-24)
     - see also: [SoB Kickstarter campaign #1](https://www.kickstarter.com/projects/1034852783/shadows-of-brimstone)
   - [Forbidden Fortress](https://www.flyingfrog.net/forbiddenfortress/) - official page of the Feudal Japan variant of the game on the main website of the _Flying Frog Productions_ company
     - [Forbidden Fortress Rulebook](http://www.flyingfrog.net/forbiddenfortress/pdf/ForbiddenFortress_Rulebook_WEB.pdf)
@@ -28,6 +32,7 @@ or in the [announcement thread on Reddit](https://old.reddit.com/r/shadowsofbrim
   - Flying Frog Productions [Official Store](https://flyingfrogproductions.mybigcommerce.com/)
   - Flying Frog Productions [official channel on Youtube](https://www.youtube.com/user/flyingfrogprod)
   - Flying Frog Productions [official wiki](https://flyingfrogwiki.com)
+  - Shadows of Brimstone official [Resources](https://www.flyingfrog.net/shadowsofbrimstone/sobs_resources.html) page
 
 ## Community
 
